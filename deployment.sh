@@ -26,7 +26,7 @@ git config --global user.email "$EMAIL"
 git config --global user.name "$USERNAME" 
 git status
 git add .
-git commit -m "hey"
+git commit -m "hell"
 git status
 git push origin HEAD:main
 echo "https://bhargavguntreddi98.github.io/"
