@@ -14,6 +14,7 @@ unzip $ZIP
 git clone $GITHUB
 ls
 pwd
+#pwd
 cd $REPO
 rm -rf *
 cd ..
