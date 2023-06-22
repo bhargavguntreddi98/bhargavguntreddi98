@@ -14,7 +14,6 @@ unzip $ZIP
 git clone $GITHUB
 ls
 pwd
-#pwd
 cd $REPO
 rm -rf *
 cd ..
@@ -27,5 +26,5 @@ git status
 git add .
 git commit -m "$COMMIT_MESSAGE"
 git status
-git push origin HEAD:main
+git push
 echo "https://bhargavguntreddi98.github.io/"
