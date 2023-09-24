@@ -7,3 +7,6 @@ body {
     background-color: rgb(164, 198, 164);
     padding:20px;
   }
+li {
+    margin:10px;
+}
