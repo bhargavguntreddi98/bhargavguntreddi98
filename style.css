@@ -2,7 +2,12 @@ body {
     font-family: Arial, sans-serif;
     background-color: rgb(123, 179, 118);
   }
-
+ watermarked{
+  background-image: url("http://placehold.it/100x100/09f/fff.png");
+  position: relative;
+  left: 30px;
+  opacity: 0.5;
+}
   header {
     background-color: rgb(164, 198, 164);
     padding:20px;
